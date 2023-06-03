@@ -1,0 +1,46 @@
+[
+    {
+    "id":1,
+    "title":"Faltu",
+    "director":"Jackky Bhagnani",
+    "release_year":"2022-11-02",
+    "gener":"action",
+    "overview":"What's in a name? Amidst the arid landscape of Rajasthan, a young woman with dreamy eyes struggles to prove her worth.",
+    "vote_average":4.5,
+    "vote_count":25
+    },
+
+      {
+        "id":2,
+        "title":"Rabb Se Hai Dua",
+        "director":"Avhiroop Mazzumdar",
+        "release_year":"2022-11-28",
+        "gener":"romantic",
+        "overview":"Dua and her husband are a perfect married couple in the eyes of their family. However, Dua’s life turns upside down when her husband seeks her permission to marry another woman"
+        ,"vote_average":3.5,
+        "vote_count":28
+        },
+
+        {
+        "id":3,
+        "title":"Teri Meri Doriyaan",
+        "director":"Jaideep Sen ",
+        "release_year":"2022-11-28",
+        "gener":"romantic",
+         "overview":"It’s hate at first sight for Sahiba and Angad! But destined to be together, their lives get intertwined by a marriage alliance, and a love-hate story ensues."
+        ,"vote_average":4.5,
+        "vote_count":4
+        },
+
+        {
+            "id":4,
+            "title":"Katha Ankahee",
+            "director":"Ravi Bhushan",
+            "release_year":"2023-01-23",
+            "gener":"drama",
+            "overview":"Katha, a single parent, is in need of funds for her son's medical treatment. She comes across Viaan, who offers help but his conditions put her in an awkward situation.",
+            "vote_average":2.5,
+            "vote_count":12
+        }
+
+]
